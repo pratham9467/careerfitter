@@ -44,7 +44,7 @@ label {
 }
 
 .login {
-    color: royalblue;
+    color: white;
     justify-content: center;
     border: 1.5px solid royalblue;
 }
@@ -352,7 +352,7 @@ input::placeholder {
     }
 
     .login {
-        color: black;
+        color: royalblue;
         justify-content: center;
         border: 1.5px solid royalblue;
     }
